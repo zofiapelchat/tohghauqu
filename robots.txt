@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theepuethu.popori.ru/sitemap.xml
